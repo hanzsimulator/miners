@@ -9,11 +9,11 @@ let farmInterval;
 let ownedCryptos = {};
 
 const cryptos = [
-    { id: 1, name: "Bitcoin", price: 3000, profit: 1500 },
-    { id: 2, name: "Ethereum", price: 2000, profit: 1000 },
-    { id: 3, name: "Litecoin", price: 1500, profit: 500 },
-    { id: 4, name: "Usd", price: 1000, profit: 300 },
-    { id: 5, name: "Tron", price: 100, profit: 50 },
+    { id: 1, name: "Bitcoin", price: 3000000, profit: 1500 },
+    { id: 2, name: "Ethereum", price: 200000, profit: 1000 },
+    { id: 3, name: "Litecoin", price: 15000, profit: 500 },
+    { id: 4, name: "Usd", price: 10000, profit: 300 },
+    { id: 5, name: "Tron", price: 1000, profit: 50 },
     { id: 6, name: "Dogecoin", price: 50, profit: 25 }
 ];
 
